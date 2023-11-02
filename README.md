@@ -15,7 +15,7 @@ The purpose of this project is to explore the possibilities of robotics and huma
 
 ## Screenshots
 
-Here are some screenshots of the project:
+Screenshots of the project:
 
 ![KKK_8024](https://github.com/Aim-Swarup/Robotic_Hand_Arduino_Based_Project/assets/129587128/ad8dbf4d-0edd-4125-ab78-d96cf1fef5bd)
 
