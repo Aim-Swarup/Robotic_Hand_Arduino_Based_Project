@@ -6,8 +6,6 @@ This project involves the creation of a robotic hand system that replicates huma
 
 The purpose of this project is to explore the possibilities of robotics and human-computer interaction. It demonstrates how we can use technology to create interactive systems that can mimic human movements, opening up possibilities for applications in various fields such as healthcare, entertainment, and more.
 
-This project was created by a university student as part of their coursework.
-
 ## How to Run the Project
 
 1. Install the required Arduino packages and libraries.
